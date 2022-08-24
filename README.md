@@ -6,6 +6,9 @@
 - 💬 Ask me about testing or development
 - 📫 How to reach me: kusumakrishna524@gmail.com
 
+Skills
+Javascript Python HTML5 React CSS3 Bootstrap NodeJS Express MongoDB MySQL Heroku
+
 
 
 
