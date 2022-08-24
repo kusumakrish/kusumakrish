@@ -22,7 +22,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kusumakrish&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="kusumakrish" /></p><br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kusumakrish&show_icons=true&locale=en&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="kusumakrish" /></p></br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kusumakrish&show_icons=true&locale=en&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="kusumakrish" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kusumakrish&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="kusumakrish" /></p>
 
